@@ -6,65 +6,83 @@
 	font-family: 'Do Hyeon', sans-serif;
 */
 
-body {
+body 
+{
 	background-color: black;
 	color: white;
 	font-size: 16px;
 	font-family: 'Do Hyeon', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3 
+{
 	font-family: 'Barriecito', cursive;
 }
 
-h1 {
+h1 
+{
 	font-size: 2.5em;
 }
 
-h2 {
+h2 
+{
 	font-size: 1.75em;
 }
 
-h3 {
+h3 
+{
 	font-size: 1.5em;
 }
 
-p {
+p 
+{
 
 }
 
-.album-art {
+.album-art 
+{
 
 }
 
-.clear {
+.clear 
+{
 	clear: both;
 }
 
-.image-electronics, .image-stage-effects {
+.image-electronics, .image-stage-effects 
+{
 	
 }
 
-.record-label {
+.record-label 
+{
 
 }
 
-.track-list {
+.track-list 
+{
 
 }
 
-#about-photo {
+#about-photo 
+{
 
 }
 
-#copyright {
+#copyright 
+{
 
 }
 
-#section-about, #section-discography, #section-equipment {
-
+#section-about, #section-discography, #section-equipment 
+{
+	margin: 1em;
+	border: .2em red double;
 }
 
-#text-intro {
-	
+#text-intro 
+{
+	border: .2em red solid;
+	background-color: darkgray;
+	margin: 1.5em 1em;
 }
