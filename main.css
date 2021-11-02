@@ -36,14 +36,14 @@ h3
 
 p 
 {
-	
+	line-height: 1.5em;
 }
 
 .album-art 
 {
 	margin: 3em;
 	border: .2em red double;
-	padding: 1em 1em;
+	padding: 1em;
 	float: left;
 	max-width: 100px;
 }
@@ -64,26 +64,27 @@ p
 
 .record-label 
 {
-
+	color: red;
 }
 
 .track-list 
 {
-
+	list-style-type: square;
 }
 
 #about-photo 
 {
-	margin: 1em 1em;
+	margin: 1em;
 	border: .2em red double;
-	padding: 1em 1em;
+	padding: 1em;
 	float: left;
 	margin: 1em;
 }
 
 #copyright 
 {
-
+	color: red;
+	margin-top: 2em;
 }
 
 #section-about, #section-discography, #section-equipment 
